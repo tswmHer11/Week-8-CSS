@@ -230,3 +230,7 @@ td {
 .hov:hover {
     background-color: lightslategray;
 }
+
+#quick-menu {
+    font-family: 'Rajdhani', sans-serif;
+}
